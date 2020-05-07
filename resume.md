@@ -1,5 +1,6 @@
 # Tolstenko Vladislava
-===
+
+---
 
 ## About me
 Student, UX/UI Designer
@@ -14,7 +15,7 @@ Student, UX/UI Designer
 
 ## Education:
 * 3rd year student of BSU
-* [Fungi studio](https://fungi.by/)
+* [Fungi studio](https://fungi.by/dgi)
 
 ## Summary
 Now I'm working on my portfolio and improve my skills as UX\UI designer of game interfaces
